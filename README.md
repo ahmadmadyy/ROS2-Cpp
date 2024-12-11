@@ -4,8 +4,9 @@
 
 This repository contains a comprehensive implementation of a robotics system using **ROS2** with C++. The system is designed to interact with multiple robotic components and includes examples of:
 
-- **Subscribers**: Listen to incoming data streams.
-- **Publishers**: Broadcast information to other nodes.
+- **Topics**:
+  - Subscribers: Listen to incoming data streams.
+  - Publishers: Broadcast information to other nodes.
 - **Services**:
   - Servers: Provide functionality upon request.
   - Clients: Request and receive data or actions from servers.
